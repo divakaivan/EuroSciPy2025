@@ -1,8 +1,8 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Forecasting with machine learning
-author: Guillaume Lemaitre & Olivier Grisel
+title: Skrub DataOps applied to forecasting timeseries
+author: Guillaume Lemaitre & Olivier Grisel & Riccardo Cappuzzo
 logo: logo.svg
 
 # Force re-execution of notebooks on each build.
@@ -22,7 +22,7 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/probabl-ai/forecasting
+  url: https://github.com/skrub-data/EuroSciPy2025
   path_to_book: book
   branch: main
 

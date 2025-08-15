@@ -5,11 +5,8 @@ format: jb-book
 root: intro
 parts:
 
-- caption: Forecasting with Machine Learning
+- caption: Skrub DataOps applied to forecasting timeseries
   chapters:
   - file: content/notebooks/fetch_weather_data
   - file: content/notebooks/feature_engineering
   - file: content/notebooks/single_horizon_prediction
-  - file: content/notebooks/multiple_horizons_prediction
-  - file: content/notebooks/prediction_intervals
-  - file: content/notebooks/direct_vs_recursive_forecasting
