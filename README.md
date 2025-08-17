@@ -2,6 +2,8 @@
 
 ## Browse the contents online
 
+- [Slides](https://skrub-data.org/EuroSciPy2025/slides/index.html)
+
 - [![Launch JupyterLite](./book/images/jupyterbook_badge.svg 'Our JupyterBook
 website')](skrub-data.org/EuroSciPy2025/)
 Static HTML with precomputed results.
