@@ -51,7 +51,7 @@ Test the deployment locally:
 pixi run -e doc serve-jupyterlite
 ```
 
-Then open http://[::]:8000/ in a web browser.
+Then open `http://[::]:8000/` in a web browser.
 
 Note: firefox often complains about Service Workers not being initialized when
 running jupyterlite served from localhost. This prevents accessing the local
