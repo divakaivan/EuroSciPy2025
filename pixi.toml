@@ -46,6 +46,7 @@ jupyter-book = "*"
 jupyterlite = "*"
 jupyterlite-pyodide-kernel = "*"
 python-libarchive-c = "*"
+quarto = "*"
 
 [feature.doc.tasks]
 execute-file-creating-pickle = { cmd = "python feature_engineering.py", cwd = "content/python_files" }
