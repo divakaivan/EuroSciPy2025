@@ -10,7 +10,7 @@ timeseries use case.
 
 - [Introductory concepts](https://skrub-data.org/EuroSciPy2025/slides/index.html)
 
-### Notebooks [![Launch JupyterLite](/images/jupyterlite_badge.svg 'Our JupyterLite website')](https://divakaivan.org/EuroSciPy2025/jupyterlite/lab)
+### Notebooks [![Launch JupyterLite](/images/jupyterlite_badge.svg 'Our JupyterLite website')](https://divakaivan.github.io/EuroSciPy2025/jupyterlite/lab)
 
 ```{tableofcontents}
 ```
